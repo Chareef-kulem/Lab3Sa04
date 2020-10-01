@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
     },
     medium: {
         marginTop: 32,
-        fontSize: 15,
+        fontSize: 10,
         color: 'white',
     }
 });
