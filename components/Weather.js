@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
         borderRadius: 200,
         width: '100%',
         height: 250,
-        opacity: 0.2,
+        opacity: 0.4,
         alignItems: 'center',
     },
     medium: {
