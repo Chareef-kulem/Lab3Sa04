@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
     backdrop: {
         borderColor:'cyan',
         borderWidth: 2,
-        borderRadius: 30,
+        borderRadius: 50,
         backgroundColor:'cyan',
         marginTop: 15,
         fontSize: 20,
