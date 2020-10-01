@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
         height: '100%'
     },
     cover: {
-        backgroundColor: 'white',
+        backgroundColor: 'red',
         borderRadius: 200,
         width: '100%',
         height: 250,
